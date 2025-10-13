@@ -1,5 +1,6 @@
 # Laporan Praktikum Minggu 1
-Topik: 
+Topik: ["Pengenalan Paradigma dan Setup Proyek"]
+
 
 ## Identitas
 - Nama  : As Syifa Dian Rinesti
