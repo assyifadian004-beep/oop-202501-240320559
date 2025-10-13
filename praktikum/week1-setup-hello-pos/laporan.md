@@ -80,9 +80,12 @@ Commit dengan pesan: week1-setup-hello-pos.
 
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
-![Screenshot PROCEDURAL](screenshots/PROCEDURAL.png)
-![Screenshot OOP](screenshots/OOP.png)
-![Screenshot FUNCTIONAL](screenshots/FUNCTIONAL.png)
+[Screenshot PROCEDURAL]
+(!(screenshots/PROCEDURAL.png))
+[Screenshot OOP]
+(!(screenshots/OOP.png))
+[Screenshot FUNCTIONAL]
+(!(screenshots/FUNCTIONAL.png)
 
 )
 ---
