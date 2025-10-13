@@ -125,9 +125,9 @@ public class HelloFunctional {
 ---
 
 ## Hasil Eksekusi
-```
+
 https://github.com/assyifadian004-beep/oop-202501-240320559/tree/main/praktikum/week1-setup-hello-pos/screenshots
-```
+
 ---
 
 ## Analisis
