@@ -126,28 +126,8 @@ public class HelloFunctional {
 
 ## Hasil Eksekusi
 ```
-<<<<<<< HEAD
-(Sertakan screenshot hasil eksekusi program.  
-[Screenshot PROCEDURAL]
-(!(screenshots/PROCEDURAL.png))
-[Screenshot OOP]
-(!(screenshots/OOP.png))
-[Screenshot FUNCTIONAL]
-(!(screenshots/FUNCTIONAL.png)
 https://github.com/assyifadian004-beep/oop-202501-240320559/tree/8d219a6f0431d2e373569f13de73492e9acb0789/praktikum/week1-setup-hello-pos/screenshots
 =======
-(
-[Screenshot hasil PROCEDURAL]
-(!(screenshots/PROCEDURAL.png))
-
-[Screenshot hasil OOP]
-(!(screenshots/OOP.png)
-)
-[Screenshot hasil FUNCTIONAL]
-(!(screenshots/FUNCTIONAL.png))
->>>>>>> cd00f8e (week1-hello-oop)
-
-)
 ```
 ---
 
