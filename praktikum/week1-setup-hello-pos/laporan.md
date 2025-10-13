@@ -125,6 +125,7 @@ public class HelloFunctional {
 ---
 
 ## Hasil Eksekusi
+```
 <<<<<<< HEAD
 (Sertakan screenshot hasil eksekusi program.  
 [Screenshot PROCEDURAL]
@@ -147,6 +148,7 @@ https://github.com/assyifadian004-beep/oop-202501-240320559/tree/8d219a6f0431d2e
 >>>>>>> cd00f8e (week1-hello-oop)
 
 )
+```
 ---
 
 ## Analisis
