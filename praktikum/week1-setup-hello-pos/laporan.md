@@ -23,9 +23,6 @@ Paradigma pemrograman adalah cara pandang dalam menyusun program.
 2. OOP (Object-Oriented Programming) yaitu program dibangun dari objek yang memiliki data (atribut) dan perilaku (method).
 3. Fungsional yaitu program dipandang sebagai pemetaan fungsi matematika, lebih menekankan ekspresi dan transformasi data.
 
-Dalam konteks Agri-POS, OOP membantu memodelkan entitas nyata seperti Produk, Transaksi, dan Pembayaran sebagai objek. Dengan demikian, sistem lebih mudah dikembangkan dan dipelihara.
-
-
 ---
 
 ## Langkah Praktikum
@@ -33,7 +30,7 @@ Dalam konteks Agri-POS, OOP membantu memodelkan entitas nyata seperti Produk, Tr
 - Pastikan sudah menginstall JDK (Java Development Kit), IDE (misal: IntelliJ IDEA, VS Code, NetBeans), Git, PostgreSQL, dan JavaFX di komputer.
 - Buat folder project, oop-pos-<nim>.
 - Inisialisasi repositori Git.
-- Buat struktur awal src/main/java/com/upb/agripos/.
+- Buat struktur awal.
 - Pastikan semua tools dapat berjalan (uji dengan membuat dan menjalankan program Java sederhana).
 
 2. Program Sederhana dalam 3 Paradigma
@@ -83,9 +80,9 @@ Commit dengan pesan: week1-setup-hello-pos.
 
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](screenshots/PROCEDURAL.png)
-![Screenshot hasil](screenshots/OOP.png)
-![Screenshot hasil](screenshots/FUNCTIONAL.png)
+![Screenshot PROCEDURAL](screenshots/PROCEDURAL.png)
+![Screenshot OOP](screenshots/OOP.png)
+![Screenshot FUNCTIONAL](screenshots/FUNCTIONAL.png)
 
 )
 ---
