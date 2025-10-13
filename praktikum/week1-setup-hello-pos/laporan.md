@@ -49,32 +49,78 @@ Commit dengan pesan: week1-setup-hello-pos.
 
 1. HelloProcedural
 
-  System.out.println("Hello POS World, I am " +nama + "-" +nim);
-        System.out.println("Daftar Produk: ");
-        for (int i = 0; i < produk.length; i++){
-            System.out.println("- " +produk[i] + ": " +harga[i]);
-            total += harga[i];
+  // HelloProcedural.java
+public class HelloProcedural {
+   public static void main(String[] args) {
+      String nim = "240320559";
+      String nama = "As Syifa Dian R";
+      String[] produk = {"Beras", "Pupuk", "Benih"};
+      int[] harga = {10000, 15000, 12000};
+      int total = 0;
+      System.out.println("Hello POS World");
+      System.out.println("NIM: " + nim + ", Nama: " + nama);
+      System.out.println("Daftar Produk:");
+      for (int i = 0; i < produk.length; i++) {
+         System.out.println("- " + produk[i] + ": " + harga[i]);
+         total += harga[i];
+      }
+      System.out.println("Total harga semua produk: " + total);
+   }
+}
 
 2. HelloOOP
 
-  public static void main(String[] args) {
-        mahasiswa m = new mahasiswa("As Syifa Dian Rinesti", "240320559");
-        m.sapa();
-        Produk[] daftar = {
-         new Produk("Benih Padi IR64", 25000),
-         new Produk("Pupuk Urea 50kg", 350000),
-         new Produk("Cangkul Baja", 90000)
-        };
-        int total = 0;
+  // HelloOOP.java
+class Produk {
+   String nama;
+   int harga;
+   Produk(String nama, int harga) {
+      this.nama = nama;
+      this.harga = harga;
+   }
+}
+
+public class HelloOOP {
+   public static void main(String[] args) {
+      String nim = "240320559";
+      String namaMhs = "As Syifa Dian R";
+      Produk[] daftar = {
+         new Produk("Beras", 10000),
+         new Produk("Pupuk", 15000),
+         new Produk("Benih", 12000)
+      };
+      int total = 0;
+      System.out.println("Hello POS World");
+      System.out.println("NIM: " + nim + ", Nama: " + namaMhs);
+      System.out.println("Daftar Produk:");
+      for (Produk p : daftar) {
+         System.out.println("- " + p.nama + ": " + p.harga);
+         total += p.harga;
+      }
+      System.out.println("Total harga semua produk: " + total);
+   }
+}
 
 3. HelloFunctional
 
- System.out.println("Daftar Produk:");
-        IntStream.range(0, produk.size())
-            .forEach(i -> System.out.println("- " + produk.get(i) + ": " + harga.get(i)));
-        int total = harga.stream().mapToInt(Integer::intValue).sum();
-        System.out.println("Total harga semua produk: " + total);
-
+ // HelloFunctional.java
+import java.util.*;
+import java.util.stream.*;
+public class HelloFunctional {
+   public static void main(String[] args) {
+      String nim = "240320559";
+      String nama = "As Syifa Dian R";
+      List<String> produk = Arrays.asList("Beras", "Pupuk", "Benih");
+      List<Integer> harga = Arrays.asList(10000, 15000, 12000);
+      System.out.println("Hello POS World");
+      System.out.println("NIM: " + nim + ", Nama: " + nama);
+      System.out.println("Daftar Produk:");
+      IntStream.range(0, produk.size())
+         .forEach(i -> System.out.println("- " + produk.get(i) + ": " + harga.get(i)));
+      int total = harga.stream().mapToInt(Integer::intValue).sum();
+      System.out.println("Total harga semua produk: " + total);
+   }
+}
 ```
 ---
 
