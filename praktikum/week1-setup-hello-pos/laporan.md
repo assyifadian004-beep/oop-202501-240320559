@@ -75,7 +75,7 @@ Commit dengan pesan: week1-setup-hello-pos.
         int total = harga.stream().mapToInt(Integer::intValue).sum();
         System.out.println("Total harga semua produk: " + total);
 
-
+```
 ---
 
 ## Hasil Eksekusi
@@ -86,6 +86,7 @@ Commit dengan pesan: week1-setup-hello-pos.
 (!(screenshots/OOP.png))
 [Screenshot FUNCTIONAL]
 (!(screenshots/FUNCTIONAL.png)
+https://github.com/assyifadian004-beep/oop-202501-240320559/tree/8d219a6f0431d2e373569f13de73492e9acb0789/praktikum/week1-setup-hello-pos/screenshots
 
 )
 ---
