@@ -89,7 +89,7 @@ p1.kurangiStok(25);
 
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil eksekusi week2](screenshot\SS-WEEK2.png)
+![Screenshot hasil eksekusi week2](https://github.com/assyifadian004-beep/oop-202501-240320559/blob/main/praktikum/week2-class-object/screenshots/SS-WEEK2.png)
 )
 
 
