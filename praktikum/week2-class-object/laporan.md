@@ -9,11 +9,11 @@ Topik: "Class dan Object (Produk Pertanian)"
 ---
 
 ## Tujuan
-(- Mahasiswa mampu menjelaskan konsep class, object, atribut, dan method dalam OOP.
+- Mahasiswa mampu menjelaskan konsep class, object, atribut, dan method dalam OOP.
 - Mahasiswa mampu menerapkan access modifier dan enkapsulasi dalam pembuatan class.
 - Mahasiswa mampu mengimplementasikan class Produk pertanian dengan atribut dan method yang sesuai.
 - Mahasiswa mampu mendemonstrasikan instansiasi object serta menampilkan data produk pertanian di console.
-- Mahasiswa mampu menyusun laporan praktikum dengan bukti kode, hasil eksekusi, dan analisis sederhana.)
+- Mahasiswa mampu menyusun laporan praktikum dengan bukti kode, hasil eksekusi, dan analisis sederhana.
 
 ---
 
