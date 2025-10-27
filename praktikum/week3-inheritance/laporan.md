@@ -1,5 +1,5 @@
 # Laporan Praktikum Minggu 3
-Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
+Topik: [Inheritance]
 
 ## Identitas
 - Nama  : [As Syifa Dian Rinesti]
