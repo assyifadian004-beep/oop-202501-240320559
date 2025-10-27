@@ -2,7 +2,7 @@
 Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
 
 ## Identitas
-- Nama  : [As Stifa Dian Rinesti]
+- Nama  : [As Syifa Dian Rinesti]
 - NIM   : [240320559]
 - Kelas : [3DSRA]
 
@@ -76,7 +76,7 @@ public class MainInheritance {
 
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil eksekusi week3](screenshot\SS-WEEK3.png)
+![Screenshot hasil eksekusi week3](https://github.com/assyifadian004-beep/oop-202501-240320559/blob/main/praktikum/week3-inheritance/screenshots/SS-WEEK3.png)
 )
 ---
 
