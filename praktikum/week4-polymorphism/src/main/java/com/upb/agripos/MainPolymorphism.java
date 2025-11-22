@@ -15,6 +15,6 @@ public class MainPolymorphism {
             System.out.println(p.getInfo()); // Dynamic Binding
         }
 
-        CreditBy.print("240320559", "As Syifa Dian Rinesti");
+        CreditBy.print("240320560", "As Syifa Dian Rinesti");
     }
 }
