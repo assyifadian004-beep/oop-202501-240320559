@@ -8,7 +8,7 @@ import util.CreditBy;
 public class MainAbstraction {
     public static void main(String[] args) {
         Pembayaran cash = new Cash("INV-001", 87000, 100000);
-        Pembayaran ew = new EWallet("INV-002", 175000, "assyifadianr@ewallet", "123456");
+        Pembayaran ew = new EWallet("INV-002", 175000, "FebianaSgit @ewallet", "123456");
         Pembayaran transfer = new TransferBank("INV-003", 150000, "BCA", true);
 
 
@@ -16,6 +16,6 @@ public class MainAbstraction {
         System.out.println(((Receiptable) ew).cetakStruk());
         System.out.println(((Receiptable) transfer).cetakStruk());
     
-        CreditBy.print("As Syifa Dian Rinesti", "240320559");
+        CreditBy.print("Febiana Saputri", "240320569");
     }
 }
