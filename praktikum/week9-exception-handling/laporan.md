@@ -4,7 +4,7 @@ Topik: [Exception Handling, Custom Exception, dan Penerapan Design Pattern]
 ## Identitas
 - Nama  : [As Syifa Dian Rinesti]
 - NIM   : [240320559]
-- Kelas : [#DSRA]
+- Kelas : [3DSRA]
 
 ---
 
@@ -91,6 +91,7 @@ public class MainExceptionDemo {
         }
     }
 }
+```
 
 ---
 
