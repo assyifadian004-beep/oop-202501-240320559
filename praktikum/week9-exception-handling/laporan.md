@@ -62,7 +62,7 @@ Kesalahan–kesalahan tersebut ditangani menggunakan custom exception.
 ## Kode Program  
 
 ```java
-/package com.upb.agripos;
+package com.upb.agripos;
 
 public class MainExceptionDemo {
     public static void main(String[] args) {
